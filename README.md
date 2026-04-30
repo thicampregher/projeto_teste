@@ -4,7 +4,7 @@ O diabetes é uma doença crônica grave na qual os indivíduos perdem a capacid
 
 O Sistema de Vigilância de Fatores de Risco Comportamentais (BRFSS) é uma pesquisa telefônica relacionada à saúde que é coletada anualmente pelo CDC (Centro de Controle e Prevenção de Doenças dos Estados Unidos). A cada ano, a pesquisa coleta respostas de milhares de americanos sobre comportamentos de risco relacionados à saúde, condições crônicas de saúde e o uso de serviços preventivos. Para este projeto, foi utilizado conjunto de dados disponível no [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) para o ano de 2015. 
 
-![imagem](imagens.diabetes.jpg)
+![imagem](imagens/diabetes.jpg)
 
 ## Organização do projeto
 
